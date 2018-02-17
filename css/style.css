@@ -1,0 +1,23 @@
+.Welcome{
+  background-color: lightblue;
+  color:purple;
+  height:140px;
+  line-height: 140px;
+
+  font-size:20px;
+}
+
+.function{
+
+      background-color:lavender;
+      height:440px;
+      line-height: 40px;
+      font-size:20px;
+}
+.addstudent
+ {
+   background-color: cyan;
+   width:40%;
+ }
+
+ 
